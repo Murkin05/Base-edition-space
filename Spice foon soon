@@ -1,0 +1,8 @@
+Unknown
+def Calculate_Square(Number):
+    return Number * Number
+
+number = int(input("Please Enter any Number: "))
+Square = Calculate_Square(number)
+print("Square of", number, "is", Square)
+Source: 3
